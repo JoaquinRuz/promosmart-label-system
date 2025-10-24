@@ -1,0 +1,110 @@
+# ESTRUCTURA DE COSTOS Y GASTOS
+
+## 1. ESTRUCTURA DE COSTOS DEL PRODUCTO
+
+Voy con la estructura de costos y de gastos que es el punto uno que te puse en la estructura de mi correo.
+
+### Costos Directos del Proveedor Exterior
+Nosotros tenemos dentro de lo que consideramos el margen bruto ciertos costos que costeamos en cada costeo que hacemos para venderle a un cliente. En esos costeos, cuyo detalle se va a ver en la maestra de costos, los tenemos agrupados en todos los costos directos del producto o del proveedor del exterior.
+
+Mejor dicho, todo aquello que el proveedor nos factura y nos mandan una invoice como parte del costo del producto está en esa categoría. Ahí están:
+- Los costos de matricería de molde
+- The printing setups
+- Todo eso que le pagamos al proveedor
+
+Nosotros normalmente le compramos a los proveedores en condiciones FOB. Algunas veces les compramos un extractor y por ejemplo ahí perfectamente se podría agregar en esa invoice un despacho, un gasto de origen como una aduana en China y ese tipo de cosas que llevarían el valor exacto.
+
+### Gastos de Origen
+Luego de todo ese capítulo de costos del proveedor del exterior que fabrica los productos, pasamos a otro capítulo que son los gastos de origen. Es un capítulo menor porque algunas veces, como dije antes, cuando compramos FOB, los proveedores nos cobran algunos gastos de origen en China para llevar esto a una condición FOB.
+
+### Flete y Seguro Internacional
+Y luego una vez que esto ya está en condición FOB, vienen los gastos de flete y seguro internacional que sí generalmente acá en Chile.
+
+### Gastos Locales
+Después de eso vienen los gastos locales que generalmente se los pagamos a través de una provisión de fondos a un agente de aduanas que luego liquida. En ese se cuentan todos los gastos de básicamente hacer la importación o la aduana acá en Chile, donde se incluye el pago de IVA asociado.
+
+### Gastos Logísticos Nacionales
+Y por último están todos los gastos logísticos nacionales: desde retirar del puerto del aeropuerto la carga y llevarlo a nuestra bodega, hasta recibirla, organizarla, maquillarla, prepararla y despacharla al cliente.
+
+Eso es todo lo que nosotros consideramos dentro del costo producto.
+
+### Partidas Adicionales Consideradas como Costo de Producto
+Hay ciertos capítulos o hay algunas partidas un poquito más pequeñas que pueden ser más confusas y que nosotros consideramos costo de producto para efectos del margen bruto:
+
+**Comisiones:**
+- Las comisiones que nos cobra IVA por usar su plataforma de pago para hacerle pago a los proveedores
+- Las comisiones bancarias que nos cobran los bancos chilenos por hacer los SWIFT al exterior
+
+**Muestras:**
+- Tanto el costo de la muestra que se le trae esa muestra como los gastos locales asociados a esa muestra
+- Ya sea una muestra de preproducción asociada a un proyecto en particular o sea una muestra de innovación y desarrollo
+- Eso siempre lo mandamos a costo de producto
+
+Si es de innovación y desarrollo no va asociado a un proyecto en particular, pero sí se va a costar producto y probablemente no fue costeada originalmente, haría que en este margen bruto ponderado del período baje. Quizás este sería un buen momento para que esas muestras de innovación y desarrollo vayan a otra partida y no necesariamente a costo producto, y asignarle un presupuesto y todo eso.
+
+**Controles de Calidad:**
+- Los controles de calidad que hacemos en China también lo llevamos a costo producto
+- También son costeados previamente y todos los que pueden hacer acá en Chile: desde paletizados, maquila y cualquier otro proceso que el cliente nos pueda pedir para hacer un despacho
+
+Todo eso es lo que consideramos costo producto.
+
+## 2. ESTRUCTURA DE GASTOS OPERACIONALES
+
+Luego nuestro estado de resultados, como bien aparecen en el plan de cuentas que también les vamos a juntar, viene el margen bruto y después de eso vienen algunas partidas muy generales y fáciles de entender:
+
+### Remuneraciones
+Donde está todo el equipo, la estructura del equipo.
+
+### Gastos de Oficina
+Donde está:
+- El arriendo de la oficina
+- El arriendo de un par de bodegas que tenemos acá en la oficina
+- De algunos estacionamientos
+- De todo lo que conlleva mantener una oficina como internet, agua, artículos, insumos, etcétera
+- Gastos comunes
+
+### Otras Partidas Menores
+- **Gastos de Viaje:** Cuando hacemos viaje a China o a otra feria en otras partes
+- **Gastos de Recursos Humanos:** Donde tenemos algunos de los beneficios que tenemos con el equipo como la membresía Glass, por ejemplo
+- **Suscripciones:** Donde está Microsoft, Trello, Pipedrive y todas las suscripciones que en el fondo ocupamos mensualmente para nuestra operación
+- **Gastos de Representación o Gastos Comerciales:** Donde incluyo la salida a comer del equipo comercial con los clientes, regalos, entradas para Lollapalooza y ese tipo de cosas
+
+### Recursos Humanos - Beneficios del Equipo
+También están los gastos que tenemos en:
+- Los cumpleaños, las tortas de cumpleaños
+- Los paseos de la empresa
+- El evento del 18
+- El evento de aniversario de la empresa
+
+Todo esto está en el plan de cuentas en todo caso.
+
+## 3. RESULTADO OPERACIONAL
+
+Terminado todos esos capítulos viene ya la sección del resultado operacional, donde es súper importante destacar que están los gastos financieros que son básicamente los intereses asociados a los préstamos en los cuales tenemos que incurrir para financiar esta operación.
+
+### Ciclo de Caja
+Es un negocio muy intensivo en capital de trabajo. Sería interesante calcular el ciclo de caja: yo diría entre 90 a 120 días.
+
+**Producto de que:**
+- Nosotros a gran parte de nuestros proveedores les pagamos un 30% al contado y un 70% contra el embarque
+- Nuestros clientes nos pagan a nuestros proveedores del exterior
+- Luego a los proveedores de flete y seguro les pagamos a 30 días contra la llegada del embarque
+- Las provisiones o gastos locales se pagan al contado contra la llegada del embarque
+- Los gastos de operación logística se pagan a 30 días (que se hace el primer día de cada mes con los movimientos del mes anterior)
+- Los clientes nos pagan generalmente a 30 días contra entrega de los productos
+
+Entonces esto a priori a mí me da que tenemos entre 90 a 120 días de ciclo de caja, lo cual es que financiar.
+
+### Financiamiento
+Para ello tenemos acceso a:
+- **La banca:** a través de créditos bullet o créditos codificados
+- **Préstamos con terceros:** alta que lo que nos da la banca
+
+**Costos de financiamiento:**
+- Yo diría que la banca estamos hablando de 0.8% mensual
+- Con terceros estamos hablando de rangos que van entre el 0.6% y hasta el 1.5% mensual
+- Siendo el promedio perfectamente en un 1% mensual
+
+Bien, y nada. Pues todos esos gastos de intereses son los que se van al resultado operacional como gastos financieros. Y yo creo que es una parte importante.
+
+Entonces con eso te escribí la estructura de costos y la estructura de gastos.

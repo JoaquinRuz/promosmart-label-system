@@ -1,0 +1,173 @@
+# COMENTARIOS Y MEJORAS PARA EL MODELO DE NEGOCIO
+
+## 1. VISIÓN GENERAL (Punto 1.1)
+
+### Presencia Geográfica
+Me parece relevante indicar que tenemos sede en Chile, Perú y Colombia. Un solo en Chile.
+
+### Modelo de Ingresos y Facturación
+No creo que sea necesario hablar de alta calidad en el modelo de ingresos y facturación. No creo que sea necesaria los tres tipos de ingresos de venta directa, licitaciones y ventas recurrentes, sino que más bien profundizar en el concepto del **"Made Border"** y de cómo es nuestro proceso de venta.
+
+### Proceso de Venta
+Un proceso de venta que se inicia con un requerimiento del cliente que nuestro equipo comercial levanta. A partir de ese levantamiento trabaja una propuesta comercial con ideas personalizadas que se le envía al cliente. Tras la aprobación del cliente se inicia todo un proceso de producción orientado en disminuir la brecha de expectativa que tiene el cliente entre lo que va a recibir y lo que recibe.
+
+Entonces pasa por un proceso de:
+- Maquetas virtuales
+- Muestras físicas
+- Controles de calidad
+- Seguimientos
+
+Que nos permiten básicamente entregarle al cliente en tiempo y forma lo que él quería.
+
+### Tipos de Ingreso
+Básicamente le cambiaría el nombre al modelo de ventas. Quizás explicar un poco qué es un artículo promocional:
+- **Merchandising**
+- **Productos promocionales**
+- **Artículos de visibilidad**
+
+Considerando que son las tres categorías más grandes. Y quizá una pequeña explicación de cada una de ellas sería útil.
+
+### Facturación
+Simplificaría mucho todo lo que es el proceso de facturación. Indicar que nosotros normalmente facturamos contra entrega y que en algunos casos, y sobre todo ahora que estamos creciendo harto y que necesitamos caja para ello, estamos volviendo a retomar lo que es la facturación del **50% al contado contra la confirmación de la orden y el otro 50% a 30 días contra entrega**.
+
+No creo que sea necesario hablar por ahora de múltiples productos por proyecto.
+
+## 2. ESTRUCTURA DE COSTOS Y DEL EQUIPO (Punto 2)
+
+### Costos Directos del Producto
+Aquí yo partiría por hablar de los costos directos del producto, lo que nosotros consideramos que está dentro del margen bruto.
+
+#### Costos FOB
+Básicamente los costos FOB, es decir todos los costos asociados al proveedor en el exterior de la invoice del proveedor del exterior y todos los costos asociados a la fabricación de ese producto que están dentro de una condición FOB. Algunas veces trabajamos con otras condiciones como EX Factory, pero principalmente un alto porcentaje de nuestra operación es FOB.
+
+#### Composición de Costos Directos
+Nuestros costos directos se componen de:
+1. **Costos FOB** (categoría principal)
+2. **Gastos de origen** para aquellas operaciones EX Factory
+3. **Fletes y seguros internacionales**
+4. **Gastos locales** acá en Chile
+5. **Gastos logísticos nacionales** de recibir en la bodega, preparar la orden y despachar a los clientes
+
+#### Conceptos Adicionales en Costos Directos
+Algunos conceptos que nosotros metemos dentro de los costos directos y consideramos margen bruto:
+
+**Comisiones Bancarias:**
+- Cuánto nos cobra Alibaba por usar su plataforma para hacer esta compra
+- Cuánto nos cobra Alibaba por usar su plataforma de pagos para hacer los pagos asociados a la compra
+- Cuánto nos cobran los bancos por el SWIFT asociados a los pagos que le hacemos a los proveedores en el exterior
+
+**Muestras:**
+- Muchas veces nosotros tenemos que traer muestras asociadas a cada uno de nuestros proyectos
+- Las muestras de producción principalmente y esas las tenemos dentro de los costos
+- Acá no consideramos muestras que son muestras de innovación y desarrollo
+- Obviamente estoy pensando en las muestras asociadas a la preproducción de ese proyecto en particular
+
+**Controles de Calidad:**
+- Tenemos también los controles de calidad en China
+- Algunos procesos específicos de logística nacional acá en Chile como maquilas
+- Requerimientos logísticos especiales como paletizados, etcétera
+
+Todo esto es lo que nosotros consideramos como costos directos dentro de este margen bruto que nosotros manejamos.
+
+### Estructura de Gastos
+
+#### Remuneraciones
+Donde tenemos el equipo. El equipo nuestro se compone de tres áreas:
+- **El área de administración**
+- **El área de ventas**
+- **El área de operaciones**
+
+En total somos 18 personas.
+
+**Área de Administración:**
+Se compone de las personas que ven contabilidad, finanzas y control de gestión.
+
+**Área de Ventas:**
+Están los ejecutivos comerciales que atienden las cuentas.
+
+**Área de Operaciones:**
+Separamos el equipo en dos:
+1. **Abastecimiento o Compras:** El equipo destinado a todo lo que sucede antes de la venta:
+   - Buscar proveedores
+   - Negociar con los proveedores
+   - Buscar productos
+   - Cotizar, costear con los proveedores en China
+   - Costear esos productos con un tarifario que nosotros tenemos para saber cuánto el producto que cotizamos en China a $1, cuánto costaría puesto acá en Chile
+
+2. **Área de Producción:** Se encarga una vez vendido:
+   - De fabricar este producto
+   - De hacer las muestras de preproducción
+   - De lidiar con el proveedor para que nos entregue en tiempo y forma las órdenes
+   - De coordinar con los embarcadores internacionales, los fletes internacionales
+   - Después la recepción, el desaduanaje acá en Chile
+   - Todo lo que es la recepción en bodega y posterior tratamiento de los productos para entrega al cliente
+
+Somos tres socios y cada uno de los socios lidera una de estas áreas.
+
+#### Otros Gastos Operacionales
+
+**Gastos de Oficina:**
+- El arriendo de las oficinas
+- El arriendo de un par de bodegas que tenemos aquí en la oficina
+- Estacionamiento
+- Todos los gastos propios de mantener una oficina como insumos, artículos de oficina, internet, agua y esas cosas
+
+**Capítulos Menores:**
+- Algunos viajes que hacemos a China o a ferias del mundo promocional
+- Gastos de recursos humanos de algunos beneficios que le entregamos al equipo:
+  - Suscripciones a gimnasio
+  - Hemos estado con planes de coaching
+  - Beneficios de ese tipo
+- Gastos de representación:
+  - Los cumpleaños de la gente aquí en la oficina
+  - La fiesta de fiestas patrias
+  - El aniversario
+  - Salir a comer con clientes
+  - Gastos varios, gastos de representación o incluso gastos comerciales
+
+**Software y Tecnología:**
+También dentro de la estructura de gastos están claro todo lo que nos gastamos en software y tecnología y en suscripciones:
+- La cuenta de GSuite
+- Microsoft
+- Trello
+- Pipedrive
+- Y todas esas cosas
+
+**Gastos Financieros:**
+Agregaría una pata que es todo lo que son los gastos financieros, que es una parte importante de nuestro modelo de negocio dado que nosotros necesitamos tener por un buen tiempo inmovilizado dinero en tránsito y en producción.
+
+**Flujo de Pagos:**
+- A los chinos les pagamos generalmente un 30% al contado, un 70% contra el embarque
+- Luego a nuestro proveedor de flete y seguro le pagamos generalmente a 30 días después de la llegada del embarque
+- Todo lo que son los gastos locales se pagan al momento de la llegada del embarque
+- Los gastos de operación logística se pagan 30 días después del último día hábil de cada mes para los servicios que se generaron en ese mes
+
+**Capital de Trabajo:**
+Eso más o menos significa que nosotros tenemos por varios meses (se podría calcular esto de mejor forma, sería bueno calcularlo) parado capital de trabajo y eso hace que para nosotros sea muy importante el financiamiento.
+
+**Financiamiento:**
+Los gastos de intereses asociados a los financiamientos es una parte importante de nuestro estado de resultados. Esos préstamos en general son:
+- Con créditos bullet o créditos codificados con los bancos con los cuales podemos llegar a tener líneas de hasta 1000 millones de pesos diría yo
+- Créditos con terceros, préstamos con terceros
+
+## 3. FUENTES DE DATOS ACTUALES
+
+### Planillas Maestras
+Yo creo que por ahora debería desbloqueando solamente las planillas maestras que es:
+- La maestra de importación
+- La maestra de costos
+
+Con la descripción del texto que voy a adjuntar a este audio y luego iría creciendo en otras planillas.
+
+### Flujo de Caja
+Flujo de caja definitivamente lo sacaría porque más que una base de datos o una fuente de datos es un reporte.
+
+### Otros Sistemas
+Me gustó la sección de otros sistemas pero:
+- **Klein** no es un CRM integrado con ventas, es un software de gestión contable
+- **Trello** podríamos poner que es el mecanismo, explicar un poco mejor que es el sistema donde gestionamos los requerimientos desde el área comercial al área de compras y los procesos de gestión de datos
+
+### Especificidad en Actualizaciones
+Tampoco me gustó mucho el... creo que tenemos que ser mucho más específicos en cuándo se actualiza aquí cada cosa. Yo como te digo partiría por ser un poquito más detallado con las tres grandes maestras. Me gustaría saber cómo, quién y cómo actualiza cada dato dentro de cada una de esas tres maestras.
+
+[Nota: Hubo errores en los segmentos 21 y 22 del audio, por lo que parte de la información puede estar incompleta]
